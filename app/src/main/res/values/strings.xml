@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Left</string>
+    <string name="widget_day_label">Left · Jour</string>
+    <string name="widget_day_desc">Les 24 heures de la journée</string>
+    <string name="widget_week_label">Left · Semaine</string>
+    <string name="widget_week_desc">Les 7 jours de la semaine</string>
+    <string name="widget_month_label">Left · Mois</string>
+    <string name="widget_month_desc">Chaque jour du mois</string>
+    <string name="widget_year_label">Left · Année</string>
+    <string name="widget_year_desc">Tous les jours de l\'année</string>
+    <string name="widget_life_label">Left · Vie</string>
+    <string name="widget_life_desc">Ta vie, année par année</string>
+    <string name="widget_countdown_label">Left · Décompte</string>
+    <string name="widget_countdown_desc">Les jours jusqu\'à un événement</string>
+</resources>
